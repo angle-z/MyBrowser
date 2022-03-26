@@ -15,6 +15,7 @@ import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.mybrowserapplication.databinding.ActivityMainBinding;
+//hello
 
 public class MainActivity extends AppCompatActivity {
 
